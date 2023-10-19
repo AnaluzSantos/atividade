@@ -1,0 +1,3 @@
+control + alt + n
+
+A estrutura de repetção só para de executar quando a estrutura se tornar falsa
